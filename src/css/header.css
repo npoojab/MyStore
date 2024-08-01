@@ -1,0 +1,26 @@
+
+header {
+border-bottom: 1px solid grey;
+}
+
+header ul {
+    padding: 0;
+    margin: 10px 0 0;
+}
+
+header ul li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 15px 20px;
+}
+
+header ul li a {
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #ed1555;
+}
+header .img-fluid {
+    max-width: 200px;
+    margin: 10px;
+}

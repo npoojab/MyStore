@@ -1,0 +1,24 @@
+footer {
+    background-color: #000;
+    color: #fff;
+    padding: 50px 0;
+    margin-top: 50px;
+}
+
+footer img {
+    max-width: 300px;
+}
+footer h3 {
+    color: #ed1555;
+}
+footer ul {
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+footer ul li {
+    list-style-type: none;
+}
+footer ul li a{
+    color: #fff;
+}
